@@ -1,0 +1,188 @@
+.team-section {
+  position: relative;
+  height: 1900.195068359375px;
+  width: 1240px;
+  left: 150px;
+  top: 6px;
+  border-radius: 0px;
+  padding: 48px, 0px, 120px, 0px;
+}
+.header-section {
+  position: absolute;
+  height: 456px;
+  width: 1200px;
+  left: 0px;
+  top: 48px;
+
+  background: linear-gradient(
+      92.21deg,
+      rgba(106, 219, 255, 0.2) 0%,
+      rgba(71, 166, 196, 0.391822) 10.73%,
+      rgba(33, 109, 133, 0.6) 56.04%,
+      rgba(71, 185, 164, 0.365403) 100%
+    ),
+    url("../assets/symbion.JPG");
+  background-size: 100% 165%;
+  background-position: center;
+  border-radius: 7.5px;
+}
+.header-section-heading {
+  position: absolute;
+  height: 265px;
+  width: 474px;
+  left: 48px;
+  top: 72px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 53px;
+  letter-spacing: 0.25em;
+  text-align: right;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.header-section-right {
+  position: absolute;
+  height: 344px;
+  width: 464px;
+  left: 618px;
+  top: 72px;
+  border-radius: 0px;
+}
+.header-section-text-up {
+  position: absolute;
+  height: 168px;
+  width: 474px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #ffffff;
+}
+.header-section-text-down {
+  position: absolute;
+  height: 144px;
+  width: 474px;
+  left: 0px;
+  top: 200px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #ffffff;
+}
+.value-section {
+  position: absolute;
+  height: 530px;
+  width: 1140px;
+  left: 0px;
+  top: 584px;
+  border-radius: 10px;
+}
+.value-section-up {
+  position: absolute;
+  height: 200px;
+  width: 840px;
+  left: 150px;
+  top: 0px;
+  border-radius: 0px;
+}
+.value-section-down {
+  position: absolute;
+  height: 200px;
+  width: 840px;
+  left: 150px;
+  top: 240px;
+  border-radius: 0px;
+}
+.team-section1 {
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px;
+  background: #609ac326;
+}
+.team-section2 {
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  left: 440px;
+  top: 0px;
+  border-radius: 10px;
+  background: #609ac326;
+}
+.team-section3 {
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px;
+  background: #609ac326;
+}
+.team-section4 {
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  left: 440px;
+  top: 0px;
+  border-radius: 10px;
+  background: #609ac326;
+}
+.team-section4-1 {
+  position: absolute;
+  left: 165px;
+  top: 60px;
+  border-radius: 10px;
+}
+
+.team-section44 {
+  position: absolute;
+  color: #609ac3;
+  height: 24px;
+  width: 400px;
+  left: 140px;
+  top: 135px;
+  border-radius: nullpx;
+}
+.team-section43 {
+  position: absolute;
+  color: #609ac3;
+  height: 24px;
+  width: 400px;
+  left: 185px;
+  top: 140px;
+  border-radius: nullpx;
+}
+.team-section42 {
+  position: absolute;
+  color: #609ac3;
+  height: 24px;
+  width: 400px;
+  left: 170px;
+  top: 140px;
+  border-radius: nullpx;
+}
+.team-section41 {
+  position: absolute;
+  color: #609ac3;
+  height: 24px;
+  width: 400px;
+  left: 180px;
+  top: 135px;
+  border-radius: nullpx;
+}

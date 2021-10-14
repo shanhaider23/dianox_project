@@ -1,0 +1,803 @@
+.main-product {
+  position: relative;
+  height: 521px;
+  width: 1140px;
+  left: 150px;
+  top: 0px;
+  border-radius: 0px;
+}
+
+.main-product-left {
+  position: absolute;
+  height: 440px;
+  width: 520px;
+  left: 10px;
+  top: 65px;
+  border-radius: 0px;
+}
+.main-product-img {
+  height: 338px;
+  width: 520px;
+
+  border-radius: 5px;
+}
+.main-product-slide {
+  position: absolute;
+  display: flex;
+  height: 70px;
+  width: 520px;
+  left: 0px;
+  top: 390px;
+  border-radius: 0px;
+}
+.main-product-right-img {
+  position: relative;
+  top: 25px;
+  width: 15px;
+  height: 20px;
+  left: 25px;
+}
+.main-product-left-img {
+  position: relative;
+  top: 25px;
+  width: 15px;
+  height: 20px;
+  right: 25px;
+}
+.main-product-right {
+  position: absolute;
+  height: 493px;
+  width: 520px;
+  left: 620px;
+  top: 0px;
+  border-radius: 0px;
+}
+
+.main-product-header {
+  position: absolute;
+  height: 58px;
+  width: 520px;
+  left: 0px;
+  top: 60px;
+  border-radius: nullpx;
+}
+.main-product-heading {
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.main-product-heading-medium {
+  position: absolute;
+  top: 80px;
+
+  color: #7b7b7b;
+}
+.main-product-description {
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.main-product-list {
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.main-product-amount {
+  position: absolute;
+  height: 30px;
+  width: 520px;
+  left: 0px;
+  top: 299px;
+  border-radius: nullpx;
+}
+.main-product-amount-heading {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #216d85;
+}
+.main-product-buy {
+  position: absolute;
+  height: 47px;
+  width: 720px;
+  left: 0px;
+  top: 363px;
+  border-radius: 0px;
+}
+.btn-outofstock {
+  height: 48px;
+  width: 180px;
+  left: 170px;
+  top: 0px;
+  border-radius: 5px;
+  padding: 14px, 24px, 14px, 24px;
+  background: #e7dfdf;
+}
+.product-count {
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  height: 30px;
+}
+
+.product-count a {
+  text-decoration: none;
+  font-weight: 700;
+  color: black;
+}
+
+.button-count {
+  display: inline-block;
+  width: 60px;
+  height: 45px;
+  background-color: #2196f3;
+  color: white;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  border: none;
+  outline: none;
+}
+.button-count:active {
+  background-color: #1565c0;
+}
+
+.number-product {
+  display: inline-block;
+  width: 70px;
+  height: 44px;
+  font-size: 24px;
+  border: 1px solid silver;
+  text-align: center;
+}
+
+:disabled {
+  background-color: silver;
+}
+.out-of-stock-button {
+  position: absolute;
+  left: 220px;
+}
+.main-product-stock-detail {
+  position: absolute;
+  width: 300px;
+  display: flex;
+  gap: 5px;
+  top: 70px;
+}
+.stock-heading {
+  font-family: Inter;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ff8e8e;
+}
+.img-stock {
+  position: relative;
+  bottom: 7px;
+}
+.main-product-notification {
+  position: absolute;
+  height: 101px;
+  width: 520px;
+  left: 0px;
+  top: 485px;
+  border-radius: 3px;
+  background: #6adbff1a;
+}
+
+.subscription-notification-heading {
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #6adbff;
+}
+.subscription-notification {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+}
+.subscription-notification-get {
+  position: absolute;
+  top: 15px;
+  left: 40px;
+}
+.form-control-subscription1 {
+  background: #6adbff0d;
+  height: 36px;
+  width: 362px;
+  left: 0px;
+  top: 0px;
+  border: 1px solid #6adbff;
+  border-radius: 5px;
+  padding: 10px, 12px, 10px, 12px;
+}
+.form-control-subscription {
+  position: absolute;
+  left: 15px;
+  top: 45px;
+}
+.subscription-button {
+  position: absolute;
+  left: 400px;
+  top: 25px;
+}
+.btn-subscription {
+  background: #6adbff;
+  color: #fff;
+}
+/*****************************Use Test***********************************/
+.shop-use-test {
+  position: absolute;
+  height: 307px;
+  width: 100%;
+  left: 0px;
+  top: 749px;
+  border-radius: 0px;
+  background: #6adbff26;
+}
+.shop-usetest-container {
+  position: absolute;
+  height: 158px;
+  width: 1140px;
+  left: 152px;
+  top: 85px;
+  border-radius: 0px;
+}
+.shop-test-main {
+  position: absolute;
+  height: 29px;
+  width: 1140px;
+  left: 152px;
+  top: 40px;
+  border-radius: nullpx;
+}
+.shop-test-heading {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.shop-test-1 {
+  position: absolute;
+  height: 158px;
+  width: 267px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+.shop-test-1-container {
+  position: absolute;
+  height: 46px;
+  width: 267px;
+  left: 0px;
+  top: 112px;
+  border-radius: 0px;
+}
+.shop-test-1-heading {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.shop-test-1-text {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #609ac3;
+}
+.shop-test-1-box {
+  position: absolute;
+  height: 80px;
+  width: 267px;
+  left: 95px;
+  top: 40px;
+  border-radius: 0px;
+}
+.shop-test-2 {
+  position: absolute;
+  height: 155px;
+  width: 267px;
+  left: 291px;
+  top: 0px;
+  border-radius: 0px;
+}
+.shop-test-2-container {
+  position: absolute;
+  height: 46px;
+  width: 267px;
+  left: 0px;
+  top: 112px;
+  border-radius: 0px;
+}
+.shop-test-2-heading {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.shop-test-2-text {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #609ac3;
+}
+.shop-test-2-box {
+  position: absolute;
+  height: 80px;
+  width: 267px;
+  left: 95px;
+  top: 40px;
+  border-radius: 0px;
+}
+.shop-test-3 {
+  position: absolute;
+  height: 155px;
+  width: 267px;
+  left: 582px;
+  top: 0px;
+  border-radius: 0px;
+}
+.shop-test-3-container {
+  position: absolute;
+  height: 46px;
+  width: 267px;
+  left: 0px;
+  top: 112px;
+  border-radius: 0px;
+}
+.shop-test-3-heading {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.shop-test-3-text {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #609ac3;
+}
+.shop-test-3-box {
+  position: absolute;
+  height: 80px;
+  width: 267px;
+  left: 95px;
+  top: 40px;
+  border-radius: 0px;
+}
+
+.shop-test-4 {
+  position: absolute;
+  height: 155px;
+  width: 267px;
+  left: 873px;
+  top: 0px;
+  border-radius: 0px;
+}
+.shop-test-4-container {
+  position: absolute;
+  height: 46px;
+  width: 267px;
+  left: 0px;
+  top: 112px;
+  border-radius: 0px;
+}
+.shop-test-4-heading {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.shop-test-4-text {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #609ac3;
+}
+.shop-test-4-box {
+  position: absolute;
+  height: 80px;
+  width: 267px;
+  left: 95px;
+  top: 40px;
+  border-radius: 0px;
+}
+/*---------------------------------Privacy-------------------------------*/
+.privacy-contanier-main {
+  position: relative;
+  height: 357.01043701171875px;
+  width: 1140px;
+  left: 150px;
+  top: 536px;
+  border-radius: 0px;
+  padding: 40px, 0px, 48px, 0px;
+}
+.privacy-text-section {
+  position: relative;
+  height: 199px;
+  width: 584px;
+  left: 0px;
+  top: 25px;
+  border-radius: 0px;
+}
+.privacy-text-heading {
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.privacy-text-main {
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #216d85;
+}
+.privacy-image-section {
+  position: absolute;
+  height: 269.01px;
+  width: 402.14px;
+  left: 837.25px;
+  top: 0px;
+  border-radius: [object Object]px;
+}
+
+.virus-text-section {
+  position: relative;
+  height: 199px;
+  width: 584px;
+  left: 650px;
+  top: 675px;
+  border-radius: 0px;
+}
+.virus-text-heading {
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.virus-text-main {
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #216d85;
+}
+.virus-image-section {
+  position: relative;
+  height: 269.01px;
+  width: 402.14px;
+  left: 150px;
+  top: 440px;
+  border-radius: [object Object]px;
+}
+.btn-virus {
+  outline: 1px solid aqua;
+  color: #6affc0;
+}
+/* ==============================Review=========*/
+
+.review-container {
+  position: relative;
+  height: 973px;
+  width: 1440px;
+  left: 0px;
+  top: 610px;
+  border-radius: 0px;
+}
+.review-sub-contanier-1 {
+  position: absolute;
+  height: 191px;
+  width: 1136px;
+  left: 152px;
+  top: 80px;
+  border-radius: 0px;
+}
+.review-section-icon-2 {
+  position: absolute;
+  height: 64px;
+  width: 98px;
+  left: 1038px;
+  top: 0px;
+  border-radius: [object Object]px;
+}
+.review-heading-1 {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #609ac3;
+}
+
+.review-heading-2 {
+  position: absolute;
+  height: 29px;
+  width: 297px;
+  left: 709px;
+  bottom: 190px;
+  border-radius: nullpx;
+}
+.review-section-text-1 {
+  position: absolute;
+  height: 191px;
+  width: 1006px;
+  left: 130px;
+  top: 0px;
+  border-radius: 0px;
+}
+.review-section-text-3 {
+  position: absolute;
+  height: 191px;
+  width: 1006px;
+  left: 130px;
+  top: 0px;
+  border-radius: 0px;
+}
+.review-section-text-2 {
+  position: absolute;
+  height: 191px;
+  width: 1006px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+.review-text-1 {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7b7b7b;
+}
+.review-text-2 {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7b7b7b;
+}
+.review-text-3 {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7b7b7b;
+}
+.review-name-3 {
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7b7b7b;
+}
+.review-name-2 {
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7b7b7b;
+}
+.review-name-1 {
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7b7b7b;
+}
+.review-sub-contanier-2 {
+  position: absolute;
+  height: 191px;
+  width: 1136px;
+  left: 152px;
+  top: 351px;
+  border-radius: 0px;
+}
+.review-sub-contanier-3 {
+  position: absolute;
+  height: 191px;
+  width: 1136px;
+  left: 152px;
+  top: 622px;
+  border-radius: 0px;
+}
+.review-heading-2 {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #609ac3;
+}
+.review-heading-3 {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #609ac3;
+}
+/* ==========================Bottom=====================*/
+.section-bottom {
+  position: relative;
+  height: 220px;
+  width: 100%;
+  left: 0px;
+  top: 550px;
+  border-radius: 0px;
+  background: #6adbff26;
+}
+.section-video {
+  visibility: hidden;
+}
+.section-bottom-youtube {
+  position: absolute;
+  height: 96px;
+  width: 512px;
+  left: 20px;
+  top: 0px;
+  border-radius: 0px;
+}
+.section-bottom-youtube-heading-1 {
+  position: absolute;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #609ac3;
+  left: 25px;
+  top: 22px;
+}
+.section-bottom-description {
+  position: absolute;
+  height: 140px;
+  width: 247px;
+  left: 152px;
+  top: 55px;
+  border-radius: 5px;
+}
+.section-bottom-youtube-heading {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.btn-watch {
+  background: #216d85;
+  color: #fff;
+  height: 35px;
+  width: 74px;
+  left: 0px;
+  top: 61px;
+  border-radius: 3px;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.section-bottom-vector {
+  position: absolute;
+  height: 48px;
+  width: 1036px;
+  left: 414px;
+  top: 75px;
+  border-radius: 0px;
+}
+.bottom-vector-2 {
+  position: relative;
+  left: 42px;
+  top: 45px;
+}
+.bottom-vector-1 {
+  position: relative;
+  left: 78px;
+  top: 96px;
+}

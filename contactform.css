@@ -1,0 +1,128 @@
+.contact-form-section {
+  position: absolute;
+  height: 352px;
+  width: 1140px;
+  left: 150px;
+  top: 615px;
+  border-radius: 0px;
+}
+.contact-form-right {
+  position: absolute;
+  height: 352px;
+  width: 478px;
+  left: 662px;
+  top: 0px;
+  border-radius: 0px;
+}
+.contact-form-left {
+  position: absolute;
+  height: 352px;
+  width: 542px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+.contact-form-title {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+  position: absolute;
+  height: 29px;
+  width: 542px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+}
+.email-form {
+  position: absolute;
+  height: 36px;
+  width: 542px;
+  left: 0px;
+  top: 64px;
+  border-radius: 5px;
+  padding: 10px, 12px, 10px, 12px;
+  border: 1px solid #ebe9e8;
+}
+.contact-form-label {
+  position: absolute;
+  top: 45px;
+  font-family: Inter;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 12px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #6adbff;
+}
+.contact-form-topic {
+  height: 12px;
+  width: 542px;
+  left: 0px;
+  top: 120px;
+  border-radius: nullpx;
+  position: absolute;
+  font-family: Inter;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 12px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #6adbff;
+}
+.contact-form-mesage {
+  position: absolute;
+  top: 195px;
+  font-family: Inter;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 12px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #6adbff;
+}
+.form-control-option1 {
+  position: absolute;
+  height: 36px;
+  width: 542px;
+  left: 0px;
+  top: 140px;
+  border-radius: 5px;
+  border: 1px solid #ebe9e8;
+}
+
+.btn-form {
+  position: absolute;
+  height: 35px;
+  width: 67px;
+  left: 475px;
+  top: 317px;
+  border-radius: 3px;
+  padding: 10px, 18px, 10px, 18px;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: linear-gradient(98.65deg, #6adbff 7.37%, #6affc0 98.43%);
+  color: #ffffff;
+}
+.form-control-message {
+  position: absolute;
+  height: 78px;
+  width: 542px;
+  left: 0px;
+  top: 214px;
+  border-radius: 10px;
+  padding: 9px, 10px, 8px, 10px;
+  border: 1px solid #ebe9e8;
+}

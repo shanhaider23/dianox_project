@@ -1,0 +1,124 @@
+.map-social {
+  position: relative;
+  height: 207px;
+  width: 100%;
+  left: 0px;
+  top: 650px;
+  border-radius: 0px;
+  padding: 40px, 150px, 56px, 150px;
+  background: #6adbff1a;
+}
+.map-social-heading {
+  position: absolute;
+  height: 29px;
+  width: 1144px;
+  left: 150px;
+  top: 40px;
+  border-radius: nullpx;
+}
+.map-social-text {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #6adbff;
+}
+.map-social-icon {
+  position: absolute;
+  height: 50px;
+  width: 1144px;
+  left: 150px;
+  top: 101px;
+  border-radius: 0px;
+}
+.map-social-facebook {
+  position: absolute;
+  height: 50px;
+  width: 174px;
+  left: 252.5px;
+  top: 0px;
+  border-radius: 0px;
+}
+.map-social-tweter {
+  position: absolute;
+  height: 50px;
+  width: 148px;
+  left: 498.5px;
+  top: 0px;
+  border-radius: 0px;
+}
+.map-social-linkedin {
+  position: absolute;
+  height: 50px;
+  width: 173px;
+  left: 718.5px;
+  top: 0px;
+  border-radius: 0px;
+}
+.map-address {
+  position: relative;
+  height: 428px;
+  width: 100%;
+  left: 0px;
+  top: 650px;
+  border-radius: 0px;
+}
+.facebook-number {
+  position: absolute;
+  height: 39px;
+  width: 116px;
+  left: 58px;
+  top: 5.5px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.tweter-number {
+  position: absolute;
+  height: 39px;
+  width: 90px;
+  left: 58px;
+  top: 5.5px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.linkedin-number {
+  position: absolute;
+  height: 39px;
+  width: 93px;
+  left: 69px;
+  top: 5.5px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.facebook-icon {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  left: 0px;
+  top: 0px;
+  border-radius: 3px;
+}

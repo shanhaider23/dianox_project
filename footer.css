@@ -1,0 +1,139 @@
+.main-footer-container {
+  position: relative;
+  background: #216d85;
+  height: 325px;
+  width: 100%;
+  left: 0px;
+  top: 550px;
+  bottom: 0px;
+  border-radius: 0px;
+}
+.footer-link-container {
+  height: 222px;
+  width: 882px;
+  left: 281px;
+  top: 32px;
+  border-radius: 0px;
+}
+.footer-container-right {
+  position: absolute;
+  height: 128px;
+  width: 420px;
+  left: 762px;
+  top: 50px;
+  border-radius: 0px;
+}
+.btn-signup {
+  background: #fff;
+  position: absolute;
+  left: 430px;
+  top: 8px;
+  width: 105px;
+}
+.footer-container-left {
+  position: absolute;
+  height: 91px;
+  width: 90px;
+  left: 110px;
+  top: 0px;
+  border-radius: 0px;
+}
+.list-footer {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  top: 30px;
+  left: 150px;
+}
+.footer-shop {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-shop:hover {
+  color: aqua;
+}
+.footer-container-middle {
+  position: absolute;
+  height: 128px;
+  width: 132px;
+  left: 410px;
+  top: 0px;
+  border-radius: 0px;
+}
+.list-middle-footer {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  top: 30px;
+  left: 50px;
+  width: 300px;
+}
+
+.lower-footer {
+  position: absolute;
+  height: 75px;
+  width: 922px;
+  left: 490px;
+  top: 250px;
+  border-radius: 0px;
+  color: #fff;
+}
+
+.nav-list-footer {
+  position: absolute;
+  display: flex;
+  left: 135px;
+  height: 55px;
+  top: 0px;
+  gap: 10px;
+}
+.nav-links-news {
+  color: #fff;
+  text-decoration: none;
+}
+.nav-links-news:hover {
+  color: aqua;
+}
+.lower-footer-down {
+  position: absolute;
+  left: 45px;
+  top: 25px;
+}
+.footer-right-heading {
+  position: relative;
+  color: #fff;
+  left: 15px;
+  bottom: 15px;
+}
+
+.icon-news {
+  display: flex;
+  gap: 15px;
+  color: #fff;
+  position: absolute;
+  top: 90px;
+  left: 15px;
+}
+.icon-facebook {
+  color: #fff;
+}
+.icon-facebook:hover {
+  color: aqua;
+}
+.form-control-me-2 {
+  position: absolute;
+  background: #6adbff0d;
+  height: 38px;
+  width: 392px;
+  padding-left: 10px;
+  top: 0px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+}
+.container-fluid {
+  position: absolute;
+  left: 0px;
+}

@@ -1,0 +1,480 @@
+.diagnostics-main-container {
+  position: relative;
+  height: 1900px;
+  width: 1444px;
+  left: 0px;
+  top: 344px;
+  border-radius: 0px;
+}
+.diagnostics-main-heading {
+  position: absolute;
+  height: 148px;
+  width: 1140px;
+  left: 150px;
+  top: 176px;
+  border-radius: 0px;
+  padding: 16px, 0px, 16px, 0px;
+}
+.diagnostics-main-section {
+  position: absolute;
+  height: 116px;
+  width: 1000px;
+  left: 70px;
+  top: 16px;
+  border-radius: nullpx;
+}
+.diagnostics-main-medium {
+  position: absolute;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 300;
+  left: 195px;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #216d85;
+}
+.diagnostics-icon-1 {
+  position: relative;
+  height: 86.11510467529297px;
+  width: 214.02711486816406px;
+  left: 413.158203125px;
+  top: 11.019287109375px;
+  border-radius: 0px;
+}
+.diagnostics-icon-2 {
+  position: absolute;
+  height: 73.4461669921875px;
+  width: 402.7978515625px;
+  left: 270.998046875px;
+  top: 25.019287109375px;
+  border-radius: 0px;
+}
+.diagnostics-icon-3 {
+  position: absolute;
+  height: 75.644775390625px;
+  width: 184.169921875px;
+  left: 367.169921875px;
+  top: 39.019287109375px;
+  border-radius: 0px;
+}
+.diagnostics-icon-4 {
+  position: absolute;
+  height: 79.2203369140625px;
+  width: 102px;
+  left: 695px;
+  top: 25px;
+  border-radius: 0px;
+}
+.diagnostics-main-1 {
+  position: absolute;
+  height: 395px;
+  width: 1000px;
+  left: 222px;
+  top: 0px;
+  border-radius: 0px;
+}
+.diagnostics-main-2 {
+  position: absolute;
+  height: 320.17718505859375px;
+  width: 1000px;
+  left: 222px;
+  top: 555px;
+  border-radius: 0px;
+}
+.diagnostics-main-3 {
+  position: absolute;
+  height: 394.2171630859375px;
+  width: 1000px;
+  left: 222px;
+  top: 1035.17724609375px;
+  border-radius: 0px;
+  padding: 64px, 0px, 80px, 0px;
+}
+.diagnostics-main-4 {
+  position: absolute;
+  height: 938px;
+  width: 1444px;
+  left: 0px;
+  top: 1589.3944091796875px;
+  border-radius: 0px;
+}
+.diagnostics-main-image-1 {
+  position: absolute;
+  height: 267.302001953125px;
+  width: 137.9840087890625px;
+  left: 0px;
+  top: 63.8489990234375px;
+}
+.diagnostics-main-text-1 {
+  position: absolute;
+  height: 395px;
+  width: 782.0159912109375px;
+  left: 217.98388671875px;
+  top: 0px;
+  border-radius: 0px;
+  padding: 80px, 0px, 0px, 0px;
+}
+.diagnostics-main-image-2 {
+  position: absolute;
+  height: 320.17718505859375px;
+  width: 159.59402465820312px;
+  left: 840.40625px;
+  top: 0px;
+  border-radius: 0px;
+}
+.diagnostics-main-text-2 {
+  position: absolute;
+  height: 211px;
+  width: 760.406005859375px;
+  left: 0px;
+  top: 54.588592529296875px;
+  border-radius: 0px;
+  padding: 30px, 0px, 0px, 0px;
+}
+.diagnostics-main-image-3 {
+  position: absolute;
+  height: 250.2171630859375px;
+  width: 183.2180633544922px;
+  left: 0px;
+  top: 64px;
+  border-radius: 0px;
+}
+.diagnostics-main-text-3 {
+  position: absolute;
+  height: 181px;
+  width: 736.7819213867188px;
+  left: 263.21826171875px;
+  top: 98.608642578125px;
+  border-radius: 0px;
+}
+.diagnostics-main-text-tube {
+  position: absolute;
+  height: 29px;
+  width: 782.0159912109375px;
+  left: 0px;
+  top: 80px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.diagnostics-main-text-small-tube {
+  position: absolute;
+  height: 192px;
+  width: 782.0159912109375px;
+  left: 0px;
+  top: 133px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #216d85;
+}
+.btn-tube {
+  position: absolute;
+  height: 46px;
+  width: 141px;
+  left: 0px;
+  top: 349px;
+  border-radius: 5px;
+  padding: 12px, 24px, 12px, 24px;
+  background: linear-gradient(98.65deg, #6adbff 7.37%, #6affc0 98.43%);
+}
+.diagnostics-main-text-equli {
+  position: absolute;
+  height: 29px;
+  width: 760.406005859375px;
+  left: 0px;
+  top: 30.000030517578125px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #216d85;
+}
+.diagnostics-main-text-small-equli {
+  position: absolute;
+  height: 128px;
+  width: 760.406005859375px;
+  left: 0px;
+  top: 83.00003051757812px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #216d85;
+}
+.diagnostics-main-text-scope {
+  position: absolute;
+  height: 29px;
+  width: 736.7819213867188px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.diagnostics-main-text-small-scope {
+  position: absolute;
+  height: 128px;
+  width: 736.7819213867188px;
+  left: 0px;
+  top: 53px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #216d85;
+}
+.diagnostics-main-4 {
+  position: absolute;
+  height: 472px;
+  width: 1140px;
+  left: 152px;
+  top: 0px;
+  border-radius: 0px;
+}
+.diagnostics-main-left {
+  position: absolute;
+  height: 472px;
+  width: 553px;
+  left: 0px;
+  top: 1600px;
+  border-radius: 0px;
+}
+.diagnostics-main-left-heading {
+  position: absolute;
+  height: 48px;
+  width: 553px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.diagnostics-main-left-text {
+  position: absolute;
+  height: 384px;
+  width: 553px;
+  left: 0px;
+  top: 88px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #216d85;
+}
+.diagnostics-main-left-text-3 {
+  position: absolute;
+  top: 300px;
+}
+.diagnostics-main-left-text-2 {
+  position: absolute;
+  top: 170px;
+}
+.diagnostics-main-right {
+  position: absolute;
+  height: 451.00006103515625px;
+  width: 467px;
+  left: 673px;
+  top: 1600px;
+  border-radius: 10px;
+}
+.diagnostics-main-right-text-1 {
+  position: absolute;
+  height: 85px;
+  width: 325px;
+  left: 142px;
+  top: 0px;
+  border-radius: 0px;
+}
+.diagnostics-main-right-text-2 {
+  position: absolute;
+  height: 79px;
+  width: 325px;
+  left: 142px;
+  top: 0px;
+  border-radius: 0px;
+}
+.diagnostics-main-right-text-3 {
+  position: absolute;
+  height: 79px;
+  width: 325px;
+  left: 142px;
+  top: 0px;
+  border-radius: 0px;
+}
+.diagnostics-main-right-text-1-lg {
+  position: absolute;
+  height: 29px;
+  width: 325px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.diagnostics-main-right-text-1-sm {
+  position: absolute;
+  height: 44px;
+  width: 325px;
+  left: 0px;
+  top: 41px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #609ac3;
+}
+.diagnostics-main-right-text-2-lg {
+  position: absolute;
+  height: 38px;
+  width: 325px;
+  left: 0px;
+  top: 41px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.diagnostics-main-right-text-2-sm {
+  position: absolute;
+  height: 38px;
+  width: 325px;
+  left: 0px;
+  top: 41px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #609ac3;
+}
+.diagnostics-main-right-text-3-lg {
+  position: absolute;
+  height: 29px;
+  width: 325px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.diagnostics-main-right-text-3-sm {
+  position: absolute;
+  height: 38px;
+  width: 325px;
+  left: 0px;
+  top: 41px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #609ac3;
+}
+.diagnostics-main-right-1 {
+  position: absolute;
+  height: 110.00004577636719px;
+  width: 467px;
+  left: 0px;
+  top: 0px;
+  border-radius: 5px;
+}
+.diagnostics-main-right-text-2-lg {
+  position: absolute;
+  height: 29px;
+  width: 325px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #216d85;
+}
+.diagnostics-main-right-2 {
+  position: absolute;
+  height: 81.00000762939453px;
+  width: 467px;
+  left: 0px;
+  top: 190px;
+  border-radius: 5px;
+}
+.diagnostics-main-right-3 {
+  position: absolute;
+  height: 100px;
+  width: 467px;
+  left: 0px;
+  top: 351.0001220703125px;
+  border-radius: 5px;
+}

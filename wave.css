@@ -1,0 +1,33 @@
+.wave-container {
+  position: relative;
+  height: 180px;
+  width: 1444px;
+  left: 0px;
+  top: 472px;
+  border-radius: 0px;
+  padding: 80px, 0px, 0px, 0px;
+}
+.wave-101 {
+  position: absolute;
+  height: 100px;
+  width: 1132px;
+  left: 0px;
+  top: 160px;
+  border-radius: 0px;
+}
+.wave-100 {
+  position: absolute;
+  height: 100px;
+  width: 941px;
+  left: 0px;
+  top: 160px;
+  border-radius: 0px;
+}
+.wave-99 {
+  position: absolute;
+  height: 100px;
+  width: 767px;
+  left: 0px;
+  top: 160px;
+  border-radius: 0px;
+}
